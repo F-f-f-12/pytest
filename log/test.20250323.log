@@ -1,0 +1,10 @@
+INFO- 2025-03-23 20:33:46,742 - test_login.py:14 - [test_login:test_login01] - 获取到接口的地址：http://127.0.0.1:8787/dar/user/login
+INFO- 2025-03-23 20:34:50,822 - conftest.py:8 - [conftest:fixture_test] - ===========接口测试开始===========
+INFO- 2025-03-23 20:34:50,823 - test_login.py:14 - [test_login:test_login01] - 获取到接口的地址：http://127.0.0.1:8787/dar/user/login
+INFO- 2025-03-23 20:34:50,838 - conftest.py:10 - [conftest:fixture_test] - ===========接口测试结束===========
+INFO- 2025-03-23 20:35:53,959 - conftest.py:8 - [conftest:fixture_test] - ===========接口测试开始===========
+INFO- 2025-03-23 20:35:53,961 - test_login.py:14 - [test_login:test_login01] - 获取到接口的地址：http://127.0.0.1:8787/dar/user/login
+INFO- 2025-03-23 20:35:53,962 - test_login.py:17 - [test_login:test_login01] - 获取到接口的地址：post
+INFO- 2025-03-23 20:35:53,962 - test_login.py:21 - [test_login:test_login01] - 获取到接口的地址：{'user_name': 'test01', 'passwd': 'admin123'}
+INFO- 2025-03-23 20:35:53,971 - test_login.py:25 - [test_login:test_login01] - 获取到接口的地址：{'error_code': None, 'msg': '登录成功', 'msg_code': 200, 'orgId': '4140913758110176843', 'token': 'D0C46aF1E1b6A0483Cff90B7CE605', 'userId': '9475031998594513305'}
+INFO- 2025-03-23 20:35:53,978 - conftest.py:10 - [conftest:fixture_test] - ===========接口测试结束===========
